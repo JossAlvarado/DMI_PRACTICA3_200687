@@ -4,7 +4,7 @@
 
 ## Ingeniería en Desarrollo y Gestión de Software
 ### Josseline Alvarado Vargas
-### 9A
+### 10A
 #### DMI
 ### DMI_PRACTICA3_200687
 
