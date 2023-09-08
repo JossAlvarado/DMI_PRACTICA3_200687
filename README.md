@@ -1,16 +1,16 @@
-# proyecto200687
+# Universidad Tecnológica de Xicotepec de Juárez
 
-A new Flutter project.
+![Banner](https://i.postimg.cc/28Zg3QFz/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
-## Getting Started
+## Ingeniería en Desarrollo y Gestión de Software
+### Josseline Alvarado Vargas
+### 9A
+#### DMI
+### DMI_PRACTICA3_200687
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Características
+| Característica         | Información                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| Nombre                 | DMI_PRACTICA3_200687                                     |
+| Descripción            | Primera app en flutter doctor |
+| Fecha de Carga         | 08/09/2023                                                                 |
